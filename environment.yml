@@ -1,0 +1,18 @@
+name: fastai-dlfc-v3
+channels:
+- fastai
+- pytorch
+- conda-forge
+dependencies:
+- python==3.6
+- pytorch
+- matplotlib
+- scipy
+- numpy
+- pandas
+- jupyter
+- jupyter_contrib_nbextensions
+#- nb_conda
+- libjpeg-turbo
+- fastai
+- pillow
